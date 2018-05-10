@@ -1,0 +1,8 @@
+class Agent {
+    newLease() {
+
+    }
+    lock() {
+
+    }
+}
